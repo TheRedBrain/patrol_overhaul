@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Patrol Overhaul
 
-## Setup
+An overhaul to pillager patrols in the game Minecraft.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Adds a progression system based on advancements to patrol spawning and the amount and type of mobs in a patrol.
